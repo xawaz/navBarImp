@@ -1,0 +1,13 @@
+
+.spacingCust {
+    border-style: solid;
+    border-radius: 40px;
+    border-width: 1px;
+    border-color: rgb(7, 59, 59);
+    background-color: hsl(225, 37%, 17%);
+    color: white;
+    box-sizing: border-box;
+    padding: 15px;
+    margin-top: 10px;
+    
+}    
